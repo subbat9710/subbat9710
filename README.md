@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @subbat9710
 - 👀 I’m interested in creating and explocing new things
-- 🌱 I’m currently learning Python, Business Intelligence tools and AI
-- 💞️ I’m looking to collaborate on new projects related to data science, BI, data analytics etc
+- 🌱 I’m currently learning C#, DotNet, Business Intelligence tools
+- 💞️ I’m looking to collaborate on new projects related to software development
 - 📫 You can reach me at tula.subba20@gmail.com
 
 <!---
