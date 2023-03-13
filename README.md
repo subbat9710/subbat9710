@@ -1,10 +1,32 @@
-- 👋 Hi, I'm Tula
-- 👀 I’m interested in creating and explocing new things
-- 🌱 I’m currently learning C#, DotNet, Business Intelligence tools
-- 💞️ I’m looking to collaborate on new projects related to software development
-- 📫 You can reach me at tula.subba20@gmail.com
+# Welcome to My GitHub!
+👋 Hi, I'm Tula, a software developer with expertise in SQL, Ruby, C#, .NET, HTML, CSS, JavaScript, Python, and reporting tools such as OBIEE and MS PowerBI.
 
-<!---
-subbat9710/subbat9710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This GitHub repository is a collection of some of the projects I have worked on throughout my career as a developer. You will find a range of projects that demonstrate my coding skills, problem-solving abilities, and creativity.
+
+# Projects
+Project 1: Virtual Vending Machine
+* Designed and developed command line vending machine application using OOP principles, leveraging the.NET framework’s file I/O capabilities to enable seamless input file processing, inventory tracking, and transaction logging
+
+Project 2: TEBucks
+* Developed a RESTful API server application TEBucks using .NET and MS SQL Server database to support the online payment service. Constructed a secure login service and record-keeping protocol using API calls and executed comprehensive testing protocol via Postman to guarantee optimal performance and reliability.
+
+Project 3: Student Management System
+* This is a student management system built using .Net, OOP principles, and an MS SQL database. The system allows users to manage student data, including personal information, academic records, and attendance.
+
+Skills
+My programming skills include:
+
+* C#
+* SQL
+* Ruby
+* .NET Framework
+* HTML
+* CSS
+* JavaScript
+* Python
+* Reporting tools such as OBIEE and MS PowerBI
+
+# Contact Me
+If you have any questions about my work or would like to collaborate on a project, please feel free to reach out to me. You can contact me at tula.subba23@gmail.com.
+
+Thank you for visiting my GitHub repository!
