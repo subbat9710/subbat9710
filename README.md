@@ -1,5 +1,5 @@
 # Welcome to My GitHub!
-#### 👋 Hi, I'm Tula, a fullstack software developer with expertise in SQL, Ruby, C#, .NET, HTML, CSS, JavaScript, Python, and reporting tools such as OBIEE and MS PowerBI.
+#### 👋 Hi, I'm Tula, a fullstack software developer with expertise in C#, .NET, HTML, CSS, JavaScript, SQL, Ruby,Python, and reporting tools such as OBIEE and MS PowerBI.
 
 #### This GitHub repository is a collection of some of the projects I have worked on throughout my career as a developer. You will find a range of projects that demonstrate my coding skills, problem-solving abilities, and creativity.
 ### Skills
