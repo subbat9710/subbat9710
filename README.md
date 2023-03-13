@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @subbat9710
+- 👋 Hi, Tula
 - 👀 I’m interested in creating and explocing new things
 - 🌱 I’m currently learning C#, DotNet, Business Intelligence tools
 - 💞️ I’m looking to collaborate on new projects related to software development
