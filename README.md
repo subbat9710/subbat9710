@@ -14,6 +14,9 @@ Project 2: TEBucks
 Project 3: Student Management System
 * This is a student management system built using .Net, OOP principles, and an MS SQL database. The system allows users to manage student data, including personal information, academic records, and attendance.
 
+project 4: AllInOneAPI
+* AllInOneAPI is a web application built with ASP.NET Web API that allows users to access multiple APIs from a single platform. The app currently supports six APIs: NASA, CatCards, Weather, Cocktails, and Jokes & Quotes. With AllInOneAPI, users can quickly and easily access a wide range of information, from space exploration images and weather data to cocktail recipes and humorous cat photos.
+
 ### Contact Me
 If you have any questions about my work or would like to collaborate on a project, please feel free to reach out to me. You can contact me at tula.subba23@gmail.com.
 
