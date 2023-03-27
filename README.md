@@ -3,7 +3,7 @@
 
 #### This GitHub repository is a collection of some of the projects I have worked on throughout my career as a developer. You will find a range of projects that demonstrate my coding skills, problem-solving abilities, and creativity.
 ### Skills
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,gitlab,html,css,bootstrap,vue,js,java,ruby,postgres,postman,)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,gitlab,html,css,bootstrap,vue,js,java,ruby,postgres,postman,github)
 ### Projects
 Project 1: Student Management System
 * This is a student management system built using .Net, OOP principles, and an MS SQL database. The system allows users to manage student data, including personal information, academic records, & attendance.
