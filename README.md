@@ -17,10 +17,13 @@ Project 3: Virtual Vending Machine (This project is hidden due to the privacy re
 Project 4: TEBucks (This project is hidden due to the privacy reasons)
 * Developed a RESTful API server application TEBucks using .NET and MS SQL Server database to support the online payment service. Constructed a secure login service and record-keeping protocol using API calls and executed comprehensive testing protocol via Postman to guarantee optimal performance and reliability.
 
-Project 5: Phonebook WebApp
+Project 5: Online Pizza Ordering Application
+* Developed a user-friendly online pizza ordering platform utilizing cutting-edge technologies such as .NET Framework, ASP Web API, C#, MS SQL Server, and Vue.js. Architected a seamless end-to-end solution that streamlined the entire ordering process, including an interactive pizza builder, optimized cart management, and secure order processing.
+
+Project 6: Phonebook WebApp
 * Phonebook App is a simple web application that allows users to store and retrieve contact information, including names, addresses, and phone numbers. It is built using the Sinatra framework and uses a PostgreSQL database to store the contact information. The main aim of the application is to provide a simple, user-friendly interface for managing contact information. Users can add new contacts to the database, and search for contacts by name or phone number.
 
-Project 6: TicTacToe Game
+Project 7: TicTacToe Game
 * This project is about creating a Tic Tac Toe game with four main features. First, it allows two human players to play against each other. Second, it allows a human player to play against a sequential (computer plays sequentially). This is also known as the easy game. Third, it allows a human player to play against a random player (computer plays randomly). This is also known as the medium game. Finally, it allows a human player to play against an unbeatable computer player. This is also known as the hard game.
 ### Contact Me
 If you have any questions about my work or would like to collaborate on a project, please feel free to reach out to me. You can contact me at tula.subba23@gmail.com.
