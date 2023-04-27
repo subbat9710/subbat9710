@@ -18,7 +18,7 @@ Project 4: TEBucks (This project is hidden due to the privacy reasons)
 * Developed a RESTful API server application TEBucks using .NET and MS SQL Server database to support the online payment service. Constructed a secure login service and record-keeping protocol using API calls and executed comprehensive testing protocol via Postman to guarantee optimal performance and reliability.
 
 Project 5: Online Pizza Ordering Application
-* Developed a user-friendly online pizza ordering platform utilizing cutting-edge technologies such as .NET Framework, ASP Web API, C#, MS SQL Server, and Vue.js. Architected a seamless end-to-end solution that streamlined the entire ordering process, including an interactive pizza builder, optimized cart management, & secure order processing.
+* Developed a user-friendly online pizza ordering platform utilizing cutting-edge technologies such as .NET Framework, ASP Web API, C#, MS SQL Server, and Vue.js. Architected a seamless end-to-end solution that streamlined the entire ordering process, including an interactive pizza builder, optimized cart management, and secure order processing.
 
 Project 6: Phonebook WebApp
 * Phonebook App is a simple web application that allows users to store and retrieve contact information, including names, addresses, and phone numbers. It is built using the Sinatra framework and uses a PostgreSQL database to store the contact information. The main aim of the application is to provide a simple, user-friendly interface for managing contact information. Users can add new contacts to the database, and search for contacts by name or phone number.
