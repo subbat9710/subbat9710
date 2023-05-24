@@ -6,7 +6,7 @@
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,gitlab,html,css,bootstrap,vue,js,java,ruby,postgres,postman,github)
 ### Capstone Projects
 Project 1: Student Management System
-* This is a student management system built using .Net, OOP principles, and an MS SQL database. The system allows users to manage student data, including personal information, academic records, & attendance.
+* This is a student management system built using .Net, OOP principles, and an MS SQL database. The system allows users to manage student data, including personal information, academic records, and attendance.
 
 project 2: AllInOneAPI
 * AllInOneAPI is a web application built with ASP.NET Web API that allows users to access multiple APIs from a single platform. The app currently supports seven APIs: NASA, OpenAI, CatCards, Weather, Cocktails, and Jokes & Quotes. With AllInOneAPI, users can quickly and easily access a wide range of information, from space exploration images, creating image of your own, and weather data to cocktail recipes and humorous cat photos and facts about the cat.
