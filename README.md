@@ -5,20 +5,22 @@
 ### Skills
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,gitlab,html,css,bootstrap,vue,js,java,ruby,postgres,postman,github)
 ### Capstone Projects
-Project 1: Student Management System
+
+Project 1: APIzza - Online Pizza Ordering Application
+* Developed a user-friendly online pizza ordering platform utilizing cutting-edge technologies such as .NET Framework, ASP Web API, C#, MS SQL Server, and Vue.js. Architected a seamless end-to-end solution that streamlined the entire ordering process, including an interactive pizza builder, optimized cart management, and secure order processing.
+
+
+Project 2: Student Management System
 * This is a student management system built using .Net, OOP principles, and an MS SQL database. The system allows users to manage student data, including personal information, academic records, and attendance.
 
-project 2: AllInOneAPI
+project 3: AllInOneAPI
 * AllInOneAPI is a web application built with ASP.NET Web API that allows users to access multiple APIs from a single platform. The app currently supports seven APIs: NASA, OpenAI, CatCards, Weather, Cocktails, and Jokes & Quotes. With AllInOneAPI, users can quickly and easily access a wide range of information, from space exploration images, creating image of your own, and weather data to cocktail recipes and humorous cat photos and facts about the cat.
  
-Project 3: Virtual Vending Machine (This project is hidden due to the privacy reasons)
+Project 4: Virtual Vending Machine (This project is hidden due to the privacy reasons)
 * Designed and developed command line vending machine application using OOP principles, leveraging the.NET framework’s file I/O capabilities to enable seamless input file processing, inventory tracking, and transaction logging
 
-Project 4: TEBucks (This project is hidden due to the privacy reasons)
+Project 5: TEBucks (This project is hidden due to the privacy reasons)
 * Developed a RESTful API server application TEBucks using .NET and MS SQL Server database to support the online payment service. Constructed a secure login service and record-keeping protocol using API calls and executed comprehensive testing protocol via Postman to guarantee optimal performance and reliability.
-
-Project 5: Online Pizza Ordering Application
-* Developed a user-friendly online pizza ordering platform utilizing cutting-edge technologies such as .NET Framework, ASP Web API, C#, MS SQL Server, and Vue.js. Architected a seamless end-to-end solution that streamlined the entire ordering process, including an interactive pizza builder, optimized cart management, and secure order processing.
 
 Project 6: Phonebook WebApp
 * Phonebook App is a simple web application that allows users to store and retrieve contact information, including names, addresses, and phone numbers. It is built using the Sinatra framework and uses a PostgreSQL database to store the contact information. The main aim of the application is to provide a simple, user-friendly interface for managing contact information. Users can add new contacts to the database, and search for contacts by name or phone number.
