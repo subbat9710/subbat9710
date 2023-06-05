@@ -3,7 +3,7 @@
 
 #### This GitHub repository is a collection of some of the projects I have worked on throughout my career as a developer. You will find a range of projects that demonstrate my coding skills, problem-solving abilities, and creativity.
 ### Skills
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,gitlab,html,css,bootstrap,vue,js,java,ruby,postgres,postman,github)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,gitlab,html,css,bootstrap,vue,js,java,idea,ruby,postgres,postman,github)
 ### Capstone Projects
 
 Project 1: APIzza - Online Pizza Ordering Application
