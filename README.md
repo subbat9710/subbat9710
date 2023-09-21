@@ -28,6 +28,5 @@ Project 6: Phonebook WebApp
 Project 7: TicTacToe Game
 * This project is about creating a Tic Tac Toe game with four main features. First, it allows two human players to play against each other. Second, it allows a human player to play against a sequential (computer plays sequentially). This is also known as the easy game. Third, it allows a human player to play against a random player (the computer plays randomly). This is also known as the medium game. Finally, it allows a human player to play against an unbeatable computer player. This is also known as the hard game.
 ### Contact Me
-If you have any questions about my work or would like to collaborate on a project, please feel free to reach out to me. You can contact me at tula.subba23@gmail.com.
-
+If you have any questions about my work or would like to collaborate on a project, please feel free to reach out to me.
 Thank you for visiting my GitHub repository! :wink:
