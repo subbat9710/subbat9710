@@ -31,5 +31,3 @@ Project 7: TicTacToe Game
 If you have any questions about my work or would like to collaborate on a project, please feel free to reach out to me. You can contact me at tula.subba23@gmail.com.
 
 Thank you for visiting my GitHub repository! :wink:
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tulasubba/)
