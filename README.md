@@ -1,10 +1,5 @@
 # Welcome to My GitHub!
-#### 👋 Hello, I'm Tula, a full-stack software developer with expertise in C#, Java, .NET, HTML, CSS, JavaScript, SQL, Vue Js, Ruby, and reporting tools such as OBIEE, Tableau, and MS PowerBI.
 
-#### This GitHub repository is a collection of some of the projects I have worked on throughout my career as a developer. You will find a range of projects that demonstrate my coding skills, problem-solving abilities, and creativity.
-### Skills
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,visualstudio,vscode,gitlab,html,css,vue,js,idea,ruby,postgres,postman,github)
-### Capstone Projects
 
 Project 1: APIzza - Online Pizza Ordering Application (full-stack)
 * Developed a user-friendly online pizza ordering platform utilizing cutting-edge technologies such as .NET Framework, ASP Web API, C#, MS SQL Server, and Vue.js. Architected a seamless end-to-end solution that streamlined the entire ordering process, including an interactive pizza builder, optimized cart management, and secure order processing.
