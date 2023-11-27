@@ -5,7 +5,7 @@ This GitHub repository is a collection of some of the projects I have worked on 
 Skills
 
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,visualstudio,vscode,gitlab,html,css,vue,js,idea,ruby,postgres,postman,github)
-## Capstone Projects
+## Projects
 
 Project 1: APIzza - Online Pizza Ordering Application (full-stack application)
 * Developed a user-friendly online pizza ordering platform utilizing cutting-edge technologies such as .NET Framework, ASP Web API, C#, MS SQL Server, and Vue.js. Architected a seamless end-to-end solution that streamlined the entire ordering process, including an interactive pizza builder, optimized cart management, and secure order processing.
