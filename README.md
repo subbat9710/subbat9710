@@ -8,7 +8,7 @@ Skills
 ## Projects
 
 Project 1: APIzza - Online Pizza Ordering Application (full-stack application)
-* Developed a user-friendly online pizza ordering platform utilizing cutting-edge technologies such as .NET Framework, ASP Web API, C#, MS SQL Server, and Vue.js. Architected a seamless end-to-end solution that streamlined the entire ordering process, including an interactive pizza builder, optimized cart management, and secure order processing.
+* Developed a user-friendly online pizza ordering platform utilizing cutting-edge technologies such as .NET Framework, ASP Web API, C#, MS SQL Server, and Vue.js. Architected a seamless end-to-end solution that streamlined the entires ordering process, including an interactive pizza builder, optimized cart management, and secure order processing.
 
 
 Project 2: Student Management System
