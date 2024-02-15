@@ -18,7 +18,7 @@ Project 3: AllInOneAPI
 * AllInOneAPI is a web application built with ASP.NET Web API that allows users to access multiple APIs from a single platform. The app currently supports seven APIs: NASA, OpenAI, CatCards, Weather, Cocktails, and Jokes & Quotes. With AllInOneAPI, users can quickly and easily access a wide range of information, from space exploration images, creating images of their own, and weather data to cocktail recipes and humorous cat photos and facts about the cat.
  
 Project 4: Virtual Vending Machine (This project is hidden due to privacy reasons)
-* Designed and developed command line vending machine application using OOP principles, leveraging the.NET framework’s file I/O capabilities to enable seamless input file processing, inventory tracking, and transaction logging
+* Designed and developed command line vending machine application using OOP principles, leveraging the.NET framework’s file I/O capabilities to enable seamless input file processing, inventory tracking, and transaction logging.
 
 Project 5: TEBucks (This project is hidden due to privacy reasons)
 * Developed a RESTful API server application TEBucks using .NET and MS SQL Server database to support the online payment service. Constructed a secure login service and record-keeping protocol using API calls and executed comprehensive testing protocol via Postman to guarantee optimal performance and reliability.
