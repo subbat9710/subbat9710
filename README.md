@@ -4,7 +4,7 @@ Welcome to My GitHub!
 This GitHub repository is a collection of some of the projects I have worked on throughout my career as a developer. Various projects demonstrate my coding skills, problem-solving abilities, and creativity.
 Skills
 
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,visualstudio,vscode,gitlab,html,css,vue,js,idea,ruby,postgres,postman,github,jenkins,angular,gradle,oracle)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,visualstudio,vscode,gitlab,html,css,vue,js,idea,ruby,postgres,postman,github,jenkins,angular,gradle)
 ## Projects
 
 Project 1: APIzza - Online Pizza Ordering Application (full-stack application with C#)
@@ -12,7 +12,7 @@ Project 1: APIzza - Online Pizza Ordering Application (full-stack application wi
 
 
 Project 2: Student Management System
-* This is a student management system built using .Net, OOP principles, and an MS SQL database. The system allows users to manage student data, including personal information, academic records, and attendance.
+* This student management system is built using .Net, OOP principles, and an MS SQL database. The system allows users to manage student data, including personal information, academic records, and attendance.
 
 Project 3: AllInOneAPI
 * AllInOneAPI is a web application built with ASP.NET Web API that allows users to access multiple APIs from a single platform. The app currently supports seven APIs: NASA, OpenAI, CatCards, Weather, Cocktails, and Jokes & Quotes. With AllInOneAPI, users can quickly and easily access a wide range of information, from space exploration images, creating images of their own, and weather data to cocktail recipes and humorous cat photos and facts about the cat.
