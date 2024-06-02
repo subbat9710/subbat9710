@@ -1,10 +1,10 @@
 Welcome to My GitHub!
 👋 Hello, I'm Tula, a full-stack software developer with expertise in C#, Java, .NET, Spring Boot, HTML, CSS, JavaScript, SQL, Vue Js, Ruby, TailwindCss, and reporting tools such as OBIEE, Tableau, and MS PowerBI.
 
-This GitHub repository is a collection of some of the projects I have worked on throughout my career as a developer. You will find a range of projects that demonstrate my coding skills, problem-solving abilities, and creativity.
+This GitHub repository is a collection of some of the projects I have worked on throughout my career as a developer. You will find various projects demonstrating my coding skills, problem-solving abilities, and creativity.
 Skills
 
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,visualstudio,vscode,gitlab,html,css,vue,js,idea,ruby,postgres,postman,github,jenkins,angular)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,visualstudio,vscode,gitlab,html,css,vue,js,idea,ruby,postgres,postman,github,jenkins,angular,gradle)
 ## Projects
 
 Project 1: APIzza - Online Pizza Ordering Application (full-stack application with C#)
