@@ -1,5 +1,5 @@
 Welcome to My GitHub!
-👋 Hello, I'm Tula, a full-stack software developer with expertise in C#, Java, .NET, Spring Boot, HTML, CSS, JavaScript, SQL, Vue Js, Ruby, TailwindCss, and reporting tools such as OBIEE, Tableau, and MS PowerBI. OpenShift
+👋 Hello, I'm Tula, a full-stack software developer with expertise in C#, Java, .NET, Spring Boot, HTML, CSS, JavaScript, SQL, Vue Js, Ruby, TailwindCss, and reporting tools such as OBIEE, Tableau, and MS PowerBI.
 
 This GitHub repository is a collection of some of the projects I have worked on throughout my career as a developer. Various projects demonstrate my coding skills, problem-solving abilities, and creativity.
 Skills
