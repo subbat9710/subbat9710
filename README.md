@@ -1,5 +1,5 @@
 Welcome to My GitHub!
-👋 Hello, I'm Tula, a full-stack software developer with expertise in C#, Java, .NET, Spring Boot, HTML, CSS, JavaScript, SQL, Vue Js, Ruby, TailwindCss, and reporting tools such as OBIEE, Tableau, and MS PowerBI.
+👋 Hello, I'm Tula, a full-stack software developer with expertise in C#, Java, .NET, Spring Boot, HTML, CSS, JavaScript, SQL, Vue JS, Ruby, Tailwind, and reporting tools such as OBIEE, Tableau, and MS Power BI.
 
 This GitHub repository is a collection of some of the projects I have worked on throughout my career as a developer. Various projects demonstrate my coding skills, problem-solving abilities, and creativity.
 Skills
@@ -12,19 +12,19 @@ Project 1: APIzza - Online Pizza Ordering Application (full-stack application wi
 
 
 Project 2: Student Management System
-* This student management system is built using .Net, OOP principles, and an MS SQL database. The system allows users to manage student data, including personal information, academic records, and attendance.
+* This student management system is built using .NET, OOP principles, and an MS SQL database. The system enables users to manage student data, including personal information, academic records, and attendance records.
 
 Project 3: AllInOneAPI
-* AllInOneAPI is a web application built with ASP.NET Web API that allows users to access multiple APIs from a single platform. The app currently supports seven APIs: NASA, OpenAI, CatCards, Weather, Cocktails, and Jokes & Quotes. With AllInOneAPI, users can quickly and easily access a wide range of information, from space exploration images, creating images of their own, and weather data to cocktail recipes and humorous cat photos and facts about the cat.
+* AllInOneAPI is a web application built with ASP.NET Web API that allows users to access multiple APIs from a single platform. The app currently supports seven APIs: NASA, OpenAI, CatCards, Weather, Cocktails, and Jokes & Quotes. With AllInOneAPI, users can quickly and easily access a wide range of information, from space exploration images and creating their own images, to weather data, cocktail recipes, humorous cat photos, and facts about cats.
  
 Project 4: Virtual Vending Machine (This project is hidden due to privacy reasons)
-* Designed and developed command line vending machine application using OOP principles, leveraging the.NET framework’s file I/O capabilities to enable seamless input file processing, inventory tracking, and transaction logging.
+* Designed and developed a command-line vending machine application using OOP principles, leveraging the .NET framework’s file I/O capabilities to enable seamless input file processing, inventory tracking, and transaction logging.
 
 Project 5: TEBucks (This project is hidden due to privacy reasons)
-* Developed a RESTful API server application TEBucks using .NET and MS SQL Server database to support the online payment service. Constructed a secure login service and record-keeping protocol using API calls and executed comprehensive testing protocol via Postman to guarantee optimal performance and reliability.
+* Developed a RESTful API server application, TEBucks, using .NET and MS SQL Server database to support the online payment service. Constructed a secure login service and record-keeping protocol using API calls and executed a  comprehensive testing protocol via Postman to guarantee optimal performance and reliability.
 
 Project 6: Phonebook WebApp
-* Phonebook App is a simple web application that allows users to store and retrieve contact information, including names, addresses, and phone numbers. It is built using the Sinatra framework and uses a PostgreSQL database to store contact information. The main aim of the application is to provide a simple, user-friendly interface for managing contact information. Users can add new contacts to the database, and search for contacts by name or phone number.
+* Phonebook App is a simple web application that allows users to store and retrieve contact information, including names, addresses, and phone numbers. It is built using the Sinatra framework and uses a PostgreSQL database to store contact information. The main aim of the application is to provide a simple, user-friendly interface for managing contact information. Users can add new contacts to the database and search for contacts by name or phone number.
 
 Project 7: TicTacToe Game
 * This project is about creating a Tic Tac Toe game with four main features. First, it allows two human players to play against each other. Second, it allows a human player to play against a sequential (computer plays sequentially). This is also known as the easy game. Third, it allows a human player to play against a random player (the computer plays randomly). This is also known as the medium game. Finally, it allows a human player to play against an unbeatable computer player. This is also known as the hard game.
