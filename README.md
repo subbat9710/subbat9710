@@ -15,7 +15,7 @@ Project 2: Student Management System
 * This student management system is built using .NET, OOP principles, and an MS SQL database. The system enables users to manage student data, including personal information, academic records, and attendance records.
 
 Project 3: AllInOneAPI
-* AllInOneAPI is a web application built with ASP.NET Web API that allows users to access multiple APIs from a single platform. The app currently supports seven APIs: NASA, OpenAI, CatCards, Weather, Cocktails, and Jokes & Quotes. With AllInOneAPI, users can quickly and easily access a wide range of information, from space exploration images and creating their own images, to weather data, cocktail recipes, humorous cat photos, and facts about cats.
+* AllInOneAPI is a web application built with ASP.NET Web API that allows users to access multiple APIs from a single platform. The app currently supports seven APIs: NASA, OpenAI, CatCards, Weather, Cocktails, and Jokes & Quotes. With AllInOneAPI, users can quickly and easily access a wide range of information, from space exploration images and creating their own images to weather data, cocktail recipes, humorous cat photos, and facts about cats.
  
 Project 4: Virtual Vending Machine (This project is hidden due to privacy reasons)
 * Designed and developed a command-line vending machine application using OOP principles, leveraging the .NET framework’s file I/O capabilities to enable seamless input file processing, inventory tracking, and transaction logging.
