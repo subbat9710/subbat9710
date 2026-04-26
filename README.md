@@ -4,7 +4,7 @@ Welcome to My GitHub!
 This GitHub repository is a collection of some of the projects I have worked on throughout my career as a developer. Various projects demonstrate my coding skills, problem-solving abilities, and creativity.
 Skills
 
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,visualstudio,vscode,gitlab,html,css,vue,js,idea,ruby,postgres,postman,github,jenkins,angular,react,gradle)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,visualstudio,vscode,gitlab,html,css,vue,js,idea,ruby,postgres,postman,github,jenkins,angular,react,gradle,redhat,heroku)
 ## Project details
 
 Project 1: APIzza - Online Pizza Ordering Application (full-stack application with C#)
